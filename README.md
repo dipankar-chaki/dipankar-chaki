@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-chaki&layout=compact)
 
 <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=dipankar-chaki&hide_border=true" width="400" /></a>
