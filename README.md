@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dipankar-chaki&hide_border=true" width="32%" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dipankar-chaki&hide_border=true" width="400" alt="GitHub Streak Stats" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-chaki&layout=compact" width="32%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-chaki&layout=compact" width="400" alt="Top Languages" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dipankar-chaki&show_icons=true" width="32%" alt="GitHub Stats" />
-  </a>
 </div>
 
